@@ -40,3 +40,7 @@
 ## 许可证
 
 MIT License
+---
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Yunle-Lee/Takaji_skills&type=date&legend=top-left)](https://www.star-history.com/#Yunle-Lee/Takaji_skills&type=date&legend=top-left)
